@@ -1,29 +1,4 @@
 # sample-vue-ts-props
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[1](https://stackoverflow.com/questions/54469343/how-can-i-in-vue-define-a-local-data-property-that-uses-a-prop-as-its-initial)
+[2](https://br.vuejs.org/v2/guide/typescript.html)
